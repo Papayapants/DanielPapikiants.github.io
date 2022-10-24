@@ -1,0 +1,64 @@
+body {
+background-color: bisque
+
+
+}
+
+.nav {
+text-align: left;
+border: 3px solid black;
+margin-right: 87%;
+
+
+}
+
+
+.Firsttitle {
+    color: crimson;
+    text-align: center;
+    font-size: 633%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Center {
+    text-align: center;
+}
+
+.abouttitle {
+    text-align: center;
+    font-size: 450%;
+    color: mediumslateblue;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.musictitle {
+    text-align: center;
+    font-size: 450%;
+    color: coral
+}
+
+.imgtxt {
+
+    text-align: center;
+    font-size: 66%;
+    color: grey;
+}
+
+.list {
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-position: inside;
+}
+
+.paragraph {
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.pheader {
+    margin-left: 10%;
+}
